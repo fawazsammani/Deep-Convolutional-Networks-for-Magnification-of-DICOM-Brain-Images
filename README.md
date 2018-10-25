@@ -1,13 +1,13 @@
-# Deep-Convolutional-Networks-for-Magnification-of-DICOM-Brain-Images
-<br/> Journal to be available online in December 2018<br/>
-Implementation of Deep CNNs for Magnification of DICOM Brain Images<br/>
-Convolutional Neural Networks have recently achieved great success in single image super-resolution (SISR). SISR is the action of 
+# Implementation of Deep Convolutional Networks for Magnification of DICOM Brain Images
+<br/> **Journal to be available online in December 2018 [here](https://scholar.google.com/citations?user=xxlAF58AAAAJ&hl=en)**<br/>
+
+*Convolutional Neural Networks have recently achieved great success in single image super-resolution (SISR). SISR is the action of 
 reconstructing a high-quality image from a low-resolution one. In this paper, we propose a deep convolutional neural network (CNN) 
 for the enhancement of Digital Imaging and Communications in Medicine (DICOM) brain images. The network learns an end-to-end mapping 
 between the low and high resolution image. We first extract features from the image, where each new layer is connected to all previous 
 layers. We then adopt residual learning and the mixture of convolutions to reconstruct the image. Our network is designed to work with 
 grayscale images, since brain images are originally in grayscale. We further compare our method with previous works, trained on the same 
-brain images, and show that our method outperforms them. 
+brain images, and show that our method outperforms them.* 
 
 ## Some Results from the Journal can be seen below
 ![1](https://user-images.githubusercontent.com/30661597/47485797-bea04780-d7f3-11e8-866f-5f5d955a60b1.PNG)
