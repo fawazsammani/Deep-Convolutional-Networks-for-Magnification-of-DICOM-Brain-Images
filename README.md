@@ -22,9 +22,9 @@ brain images, and show that our method outperforms them.*
 This code was built in TensorFlow, Keras and MATLAB.
 
 ## Image Pre-Processing
-Image resizing and data augmentation was done manually in MATLAB. All images are then saved to a .h5 file, to be imported later during training
+Image resizing and data augmentation was done manually in MATLAB, for the purpose of a fair comparison with other papers. All images are then saved to a .h5 file, to be imported later during training
 
 ## Dataset
-Please contact us for information about the dataset and it's acquisition 
+Please contact us for information about the dataset and it's acquisition. Note: The Dataset used has been acquired from specific hospitals.
 
 
