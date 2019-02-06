@@ -1,5 +1,5 @@
 # Implementation of Deep Convolutional Networks for Magnification of DICOM Brain Images
-<br/> **Journal to be available online in February 2019 [here](http://www.ijicic.org/contents.htm)**<br/>
+<br/> **Journal available [here] under Volume 15, Number 2, April 2019 (http://www.ijicic.org/contents.htm)**<br/>
 
 *Convolutional Neural Networks have recently achieved great success in single image super-resolution (SISR). SISR is the action of 
 reconstructing a high-quality image from a low-resolution one. In this paper, we propose a deep convolutional neural network (CNN) 
